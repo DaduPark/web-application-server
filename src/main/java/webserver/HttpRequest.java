@@ -51,7 +51,7 @@ public class HttpRequest {
 	
     public String getMethod() {
 		return method;
-	}
+	} 
 
 	public String getPath() {
 		return path;
